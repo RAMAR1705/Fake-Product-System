@@ -1,0 +1,5 @@
+{
+  "name": "Fake Product Detection System",
+  "description": "A full-stack application to generate and verify product authenticity using QR codes with a modern glassmorphism UI.",
+  "requestFramePermissions": ["camera"]
+}
