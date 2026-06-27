@@ -18,3 +18,4 @@ View your app in AI Studio: https://ai.studio/apps/9f9ffce4-e27e-467a-ba6c-1e0dc
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+"# Fake-Product-System" 
