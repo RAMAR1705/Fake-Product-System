@@ -1,21 +1,24 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+Fake Product Detection System
 
-# Run and deploy your AI Studio app
+A responsive and modern web application that demonstrates product management using fake product data. The application allows users to browse, search, filter, add, edit, and delete products through an intuitive interface.
 
-This contains everything you need to run your app locally.
+Features
+🛍️ Display products in a clean, responsive layout
+🔍 Search products by name
+🎯 Filter products by category
+➕ Add new products
+✏️ Edit existing products
+🗑️ Delete products
+📱 Fully responsive design
+⚡ Fast performance with React
+🌐 Integrated with a Fake Product API
+Tech Stack
+React.js
+JavaScript (ES6+)
+HTML5
+CSS3
+REST API
+Vercel (Deployment)
+Live Demo
 
-View your app in AI Studio: https://ai.studio/apps/9f9ffce4-e27e-467a-ba6c-1e0dc3228903
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
-"# Fake-Product-System" 
+https://fake-product-system.vercel.app
