@@ -18,7 +18,7 @@ JavaScript (ES6+)
 HTML5
 CSS3
 REST API
-Vercel (Deployment)
+Render (Deployment)
 Live Demo
 
-https://fake-product-system.vercel.app
+https://fake-product-system.onrender.com
